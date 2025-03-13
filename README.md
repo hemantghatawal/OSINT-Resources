@@ -135,4 +135,4 @@ In practice, that tends to mean information found on the Internet, but technical
 
 
 
-## For More See the index.html file ...
+## For More See the index.html file [...](https://hemantghatawal.github.io/OSINT-Resources/)
